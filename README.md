@@ -8,7 +8,7 @@ The Dataset for this project is obtained from NASDAQ's official website. NASDAQ 
 
 ### DATA MINING TASKS
 Some data mining tasks were performed on the dataset before implementing Prediction Models. These majorly include Data Preprocessing, Data Transformation, Exploratory Data Analysis and CATCH22 AND VARIABLE SELECTION.
-
+Used feature extraction technique Catch22 on closing price.
 
 ### DATA MINING MODELS
 This involves training Machine Learning models with the feature selection and hyperparameter tuning for predicting closing prices of stocks. Multiple models like Linear Regression, KNN, Random Forest and Neural Network were trained for this purpose and a comparative analysis was done to choose the best performing model. Since this was a regression problem, R-squared, Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE) were considered as the evaluation metrics.
